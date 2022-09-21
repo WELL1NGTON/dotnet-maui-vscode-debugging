@@ -1,5 +1,7 @@
 # Test project with .NET MAUI
 
+![maui](src/Maui.VSCode/Resources/Images/dotnet_bot.svg)
+
 This is a test project about debugging .NET MAUI on linux with Visual Studio Code.
 
 ## Observations
